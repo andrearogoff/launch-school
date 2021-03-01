@@ -1,0 +1,1 @@
+There is an error because there is not an ampresand on the argument block. It's a block inside a block and it must have an ampresand that allows the block to be passed as a parameter.
