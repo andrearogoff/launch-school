@@ -1,2 +1,0 @@
-nums.uniq
-nums.uniq!
